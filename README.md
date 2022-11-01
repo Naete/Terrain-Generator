@@ -1,3 +1,5 @@
+The 3D Terrain Generator is a Unity Engine Tool created by myself to generate 3d mesh terrain and voxel terrain by the use of the Diamond Square Algorithm. Although the project was never finished, the main purpose of it was to help developer to create 3d terrain for their games with the help of procedural algorithms.
+
 ![Untitled9](https://user-images.githubusercontent.com/95312706/199317761-40b24a21-2d6c-4ce3-946b-70a36488707a.png)
 ![Untitled10](https://user-images.githubusercontent.com/95312706/199317764-84fb0061-a200-462c-9e74-9545702154ba.png)
 
