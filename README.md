@@ -2,6 +2,10 @@ The 3D Terrain Generator is a Unity Engine Tool created by myself to generate 3d
 
 https://user-images.githubusercontent.com/95312706/199506599-9dada554-2b24-4e7a-90c3-e707a76531ad.mp4
 
+https://user-images.githubusercontent.com/95312706/199509180-b2e4386d-7154-4cc8-bf25-f0c2e66713e6.mp4
+
+https://user-images.githubusercontent.com/95312706/199513048-1b3fcb4c-9cf9-40e4-b41d-25a7bf3add93.mp4
+
 ![Untitled9](https://user-images.githubusercontent.com/95312706/199317761-40b24a21-2d6c-4ce3-946b-70a36488707a.png)
 ![Untitled10](https://user-images.githubusercontent.com/95312706/199317764-84fb0061-a200-462c-9e74-9545702154ba.png)
 
